@@ -64,7 +64,7 @@ export const PORTFOLIO_DATA = {
       github: "https://github.com/SamyakJ05",
       linkedin: "https://www.linkedin.com/in/samyakj05/",
       twitter: "https://x.com/_samyakk",
-      instagram: "https://www.instagram.com/_samyakk",
+      instagram: "https://www.instagram.com/samyak.space",
       blog: "https://blog.samyak.space",
       portfolio: "https://samyak.space",
       sponsor: "https://github.com/sponsors/SamyakJ05",
