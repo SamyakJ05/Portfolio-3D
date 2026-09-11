@@ -67,6 +67,7 @@ export const PORTFOLIO_DATA = {
       instagram: "https://www.instagram.com/_samyakk",
       blog: "https://blog.samyak.space",
       portfolio: "https://samyak.space",
+      sponsor: "https://github.com/sponsors/SamyakJ05",
       awsArticle: "https://builder.aws.com/content/3CV2aFroWhni2e6MGlj8kLSDbCY/aideas-finalist-retainiq",
       retainiq: "https://retainiq.cloud/",
     },
